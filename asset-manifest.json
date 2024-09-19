@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/capico-trading/static/css/main.7acaea2f.css",
+    "main.js": "/capico-trading/static/js/main.07d3183d.js",
+    "index.html": "/capico-trading/index.html",
+    "main.7acaea2f.css.map": "/capico-trading/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/capico-trading/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
